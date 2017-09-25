@@ -1,0 +1,16 @@
+background(255);
+noStroke();
+
+var h = 0;
+
+while(true) {
+  background(255);
+  colorMode(HSB);
+  fill(h, 100, 100);
+  ellipse(100 + h,100, 50, 50);
+  h = h + 5;
+  
+  if (h >= 270) {
+    h = 0;
+  }
+}
