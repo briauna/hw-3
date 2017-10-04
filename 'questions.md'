@@ -1,0 +1,10 @@
+~What is one major advantage of using an object instead of multiple variables?
+The main purpose to using an object is to keep everything in one container or in other words to keep you code clean and short.
+The object function allow you to put all your variables in one place and make them into “one line of code”. 
+
+~What is the role of the parameters of a function?
+It groups them into different part that’s allow you to organize them. It is also easier to look at you code in more detail 
+if you need to focus on one part.
+
+~What does it mean for a function to "return" something?
+Return is a statement that tells the program to leave the subroutine and return to the beginning  
